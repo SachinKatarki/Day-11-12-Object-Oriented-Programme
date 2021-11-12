@@ -34,9 +34,8 @@ private double balance;	// instance variable that stores the balance
 		// return the account balance
 		public double getBalance()
 		{
-			return balance; // gives the value of balance to the calling method
-		} // end method getBalance
-		
-} // end class Exercise039
+			return balance; 
+		} 
+}
 
 	
